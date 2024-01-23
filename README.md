@@ -7,7 +7,7 @@
 
 - 🤝 I'm looking for help **with the people whoa has best experience in using python programming and AI**
 
-- 📫 How to reach me: samuelbaah531@gmail.com**
+- 📫 How to reach me: samuelbaah531@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
