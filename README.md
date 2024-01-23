@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Baah</h1>
 <h3 align="center">My mission is to help companys that have problems with data, my vision is to learn more about Data Science and help Companys with problems. Am also passionate about data science and AI. I define myself by being a personeager to learn and a great team leader Multidisciplinary.</h3>
 
-- 🌱 I’m currently learning **at Impelia Campus Profesional**
+- 🌱 I’m currently learning **Data Science and Artificial intelligence at Impelia Campus Profesional**
 
 - 🗨️ Ask me about life goals, technology develpment, and books!
 
