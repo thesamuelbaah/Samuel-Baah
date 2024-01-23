@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **At Impelia Campus Profesional**
 
-- 🗨️ Ask me about life goals, [technology develpment, and books!](technology develpment, and books!)
+- 🗨️ Ask me about life goals,technology develpment, and books!
 
 - 🤝 I'm looking for help **with the people whoa has best experience in using python programming and AI**
 
